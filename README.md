@@ -1,8 +1,6 @@
 <h1 align="center">Hola 👋, mi apodo es iExpert</h1>
 <h3 align="center">Soy un desarrollador que se enfoca principalmente en videojuegos como RageMP y en aplicaciones web de todo tipo.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iexpertdarkside" alt="iexpertdarkside" /></a> </p>
-
 - 🔭 Actualmente trabajo en el proyecto **GTA REALM Roleplay**
 
 - 🌱 Actualmente estoy aprendiendo **TypeScript**
